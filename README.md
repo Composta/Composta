@@ -1,8 +1,4 @@
 <html lang=es>
-    <head>
-        <link rel="icon" href="Img/Logo.png" type="image/png" sizes="64x64">
-        <title>Lombrisin</title>
-    </head>
     <style>
         h1 {
             color: #0719F0;
