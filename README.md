@@ -38,9 +38,6 @@
                 <li><b>Fertiliza tu jardín o huerta:</b> La lombricomposta es un excelente fertilizante para las plantas. Mejora la estructura del suelo, lo que ayuda a las plantas a absorber los nutrientes. </li>
                 <li><b>Cultiva tus propias plantas en casa:</b> La lombricomposta se puede utilizar para cultivar tus propias plantas en casa, ya sea en macetas, jardineras o en el suelo.</li>
                 <li><b>Reduce la cantidad de residuos que generas:</b> La lombricomposta es una forma de reducir la cantidad de residuos que generas. Puedes compostar los residuos orgánicos de tu cocina, como restos de comida, frutas y verduras, así como papel y cartón.</li>
-        <div style="text-align: center;">
-            <img src="Mis archivos/Descargas/Escuela/lombri/HTML/Img/Lombricompostador.jpeg" alt="Imagen de un compostador">
-        </div>
         </p>
     </body>
 </html>
