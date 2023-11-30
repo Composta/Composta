@@ -1,18 +1,4 @@
 <html lang=es>
-    <style>
-        h1 {
-            color: #0719F0;
-        }
-        h1 {
-            text-shadow: 0 1px 2px #000000;
-        }
-        p {
-            color: #899EB0;
-        }
-        li {
-            color: #000000;
-        }
-    </style>
     <body>
         <ul class="nav nav-tabs">
           <li class="nav-item">
