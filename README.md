@@ -3,7 +3,6 @@
         <h1 style="font-family: Courier New;"><i>Lombrisin hace feliz a tu Jardin</i></h1>
         <h1 style="font-family: Courier New;"><i>¿Para que sirve?</i></h1>
         <p style="font-family: Times New Roman;">Es un abono natural que se produce por la degradación y descomposición de los desechos orgánicos por la acción de las lombrices. Comúnmente se utiliza la lombriz roja californiana (Eisenia foetida).</p>
-        <h1 style="font-family: Courier New;"><i>¿Que beneficios tiene?</i></h1>
         <h1 style="font-family: Courier New;">Que beneficios proporciona la lombricomposta</h1>
             <p style="font-family: Courier New;">La lombricomposta es un abono orgánico que se produce a partir de la descomposición de residuos orgánicos por lombrices. Es un producto rico en nutrientes, minerales y microorganismos beneficiosos para el suelo y las plantas.</p>
             <p style="font-family: Courier New;">Los beneficios de la lombricomposta son numerosos, tanto para el medio ambiente como para la agricultura. Algunos de los más importantes son:</p>
@@ -32,9 +31,6 @@
                 <li><b>Aumento de la producción:</b> Los cultivos que se cultivan con lombricomposta suelen tener un mayor rendimiento que los que se cultivan con fertilizantes químicos.</li>
                 <li><b>Mejora de la calidad de los productos:</b> Los productos agrícolas cultivados con lombricomposta suelen tener una mejor calidad organoléptica, es decir, un mejor sabor, aroma y textura.</li>
                 <li><b>Reducción de plagas y enfermedades:</b> La lombricomposta ayuda a fortalecer las plantas, haciéndolas más resistentes a las plagas y enfermedades.</li>
-            </ul>
-        <h1 style="font-family: Courier New;"><i>Ejemplos</i></h1>
-        </li></ul>
             <p style="font-family: Times New Roman;"></p>
         <h1 style="font-family: Courier New;">Algunos ejemplos</h1></p>
         <li style="font-family: Times New Roman;"><i>En el hogar, la lombricomposta se puede utilizar para:</i>
@@ -43,7 +39,7 @@
                 <li><b>Cultiva tus propias plantas en casa:</b> La lombricomposta se puede utilizar para cultivar tus propias plantas en casa, ya sea en macetas, jardineras o en el suelo.</li>
                 <li><b>Reduce la cantidad de residuos que generas:</b> La lombricomposta es una forma de reducir la cantidad de residuos que generas. Puedes compostar los residuos orgánicos de tu cocina, como restos de comida, frutas y verduras, así como papel y cartón.</li>
         <div style="text-align: center;">
-            <img src="Img/Lombricompostador.jpeg" alt="Imagen de un compostador">
+            <img src="Mis archivos/Descargas/Escuela/lombri/HTML/Img/Lombricompostador.jpeg" alt="Imagen de un compostador">
         </div>
         </p>
     </body>
